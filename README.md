@@ -34,3 +34,4 @@ Contains all business logic
 
 ##### tsconfig.json - ts config file
 # boilerplate
+# dashboard

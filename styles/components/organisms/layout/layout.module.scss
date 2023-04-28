@@ -1,9 +1,8 @@
-.main {
-  width: 100%;
-  max-width: 480px;
-  margin: auto;
-  // height: calc(100vh - 75px);
-  min-height: calc(100vh - calc(100vh - 100%));
+.layoutContainer {
+  width: 100vw;
+  min-height: var(--fullHeight);
   transition: all ease-out 0.4s;
-  background-image: url(/assets/images/female/bg.png);
+  background-image: var(--);
+  .contentContainer {
+  }
 }
